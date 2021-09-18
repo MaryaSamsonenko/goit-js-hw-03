@@ -30,3 +30,7 @@
 //         chelsy: 150,
 //     }),
 // ); // 400
+
+//  ==== Решение Димы - нужно разобрать
+
+// const countTotalSalary = employees => Object.values(employees).reduce((acc, el) => acc + el, 0);
